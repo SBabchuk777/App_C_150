@@ -5,90 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b73e1de5-7f5a-41cb-a06a-15a6dbde0e20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Scenes/Boot.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scenes/Boot.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.App_C_150/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.App_C_150/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Black.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-BlackItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraBoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraLight.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraLightItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Italic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Light.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-LightItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Medium.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-MediumItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-SemiBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-SemiBoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Thin.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ThinItalic.ttf.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Game/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scenes/AudioCore.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scenes/AudioCore.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scripts/SetVolumeStreams.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scripts/SetVolumeStreams.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scripts/SwitchEnableStrems.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scripts/SwitchEnableStrems.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scripts/TestAudio.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Example/Scripts/TestAudio.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Prefabs/AudioCoreInit.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Prefabs/AudioCoreInit.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/AudioController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/AudioController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/AudioCoreInit.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/AudioCoreInit.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/AudioSettings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/AudioSettings.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/AudioSourceManagement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/AudioSourceManagement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/LanguageAudio.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/LanguageAudio.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/StreamGroupManagement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/StreamGroupManagement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/TweensManagement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/AudioCore/Scripts/TweensManagement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/Extension.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/Extension/SceneAttribute.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/Extension/SceneAttribute/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/Extension/SceneAttribute/Editor/SceneDrawer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/Extension/SceneAttribute/Editor/SceneDrawer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/Extension/SceneAttribute/SceneAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/Extension/SceneAttribute/SceneAttribute.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Game.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Game.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/InitScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/InitScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Level_4.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Level_4.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Level_5.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Level_5.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Logo.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Logo.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Preloader.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Example/Scenes/Preloader.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Prefabs/FadeCanvas.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Prefabs/FadeCanvas.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Prefabs/ServiseScripts.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Prefabs/ServiseScripts.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/Fade.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/Fade/UIFader.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/Fade/UIFader.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/GUI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/GUI/ButtonClickHandler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/GUI/ButtonClickHandler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/GUI/FadeContentEnabler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/GUI/FadeContentEnabler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/GUI/GoToSceneButton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/GUI/GoToSceneButton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/GUI/RectTransformUtils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/GUI/RectTransformUtils.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/Helpers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/Helpers/SceneLoader.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/Helpers/SceneLoader.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/Logo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/Logo/LogoScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prototype/SceneLoaderCore/Scripts/Logo/LogoScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Scripts/Wallet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Wallet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/UserProfile/Scripts/UserProfileStorage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/UserProfile/Scripts/UserProfileStorage.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +49,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../App_C_130/Assets/Game/Scripts/UI/RewardedAdButton.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UI/RewardedPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UI/SmoothDynamicHorizontalLayoutGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UI/StartGameButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/38c0c7fccac94c52bf8071bca4c4a35518200/c3/98c650d2/02000003pdb30.il" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2XncTBKsfCiukZJohgyrKiE9oGx" />
   <component name="ProjectViewState">
@@ -150,10 +108,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="51614">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="51614" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -171,7 +129,7 @@
       <updated>1699268290280</updated>
       <workItem from="1699268291401" duration="26000" />
       <workItem from="1699362635947" duration="4047000" />
-      <workItem from="1699527739695" duration="1286000" />
+      <workItem from="1699527739695" duration="7751000" />
     </task>
     <servers />
   </component>
@@ -182,5 +140,24 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Game/Scripts/UI/SmoothDynamicHorizontalLayoutGroup.cs</url>
+          <line>159</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/SmoothDynamicHorizontalLayoutGroup.cs" initialLine="159" containingFunctionPresentation="Method 'GetYPosition'">
+            <startOffsets>
+              <option value="4853" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4913" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
