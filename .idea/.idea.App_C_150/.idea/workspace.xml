@@ -5,43 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b73e1de5-7f5a-41cb-a06a-15a6dbde0e20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.App_C_150/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.App_C_150/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/OFL.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Black.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-BlackItalic.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraBold.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraBoldItalic.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraLight.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ExtraLightItalic.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Italic.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Light.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-LightItalic.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Medium.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-MediumItalic.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-SemiBold.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-SemiBoldItalic.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-Thin.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Fonts/Poppins-ThinItalic.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Scripts/Wallet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Wallet.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/UserProfile/Scripts/UserProfileStorage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/UserProfile/Scripts/UserProfileStorage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scenes/Game.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +13,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../App_C_130/Assets/Game/Scripts/UI/RewardedAdButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/Game/BetSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/Game/DealButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UI/RewardedPanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UI/SmoothDynamicHorizontalLayoutGroup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UI/StartGameButton.cs" root0="FORCE_HIGHLIGHTING" />
@@ -108,10 +72,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="51614">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="51614" />
+      <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -130,6 +94,7 @@
       <workItem from="1699268291401" duration="26000" />
       <workItem from="1699362635947" duration="4047000" />
       <workItem from="1699527739695" duration="7751000" />
+      <workItem from="1699611078062" duration="1557000" />
     </task>
     <servers />
   </component>
