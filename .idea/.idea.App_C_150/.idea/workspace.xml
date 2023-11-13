@@ -15,7 +15,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../App_C_130/Assets/Game/Scripts/UI/RewardedAdButton.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/Game/BetSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/Game/CurrentBetShower.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/Game/DealButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/Game/PassButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UI/RewardedPanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UI/SmoothDynamicHorizontalLayoutGroup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game/Scripts/UI/StartGameButton.cs" root0="FORCE_HIGHLIGHTING" />
@@ -95,6 +97,8 @@
       <workItem from="1699362635947" duration="4047000" />
       <workItem from="1699527739695" duration="7751000" />
       <workItem from="1699611078062" duration="1557000" />
+      <workItem from="1699619425224" duration="4622000" />
+      <workItem from="1699880687668" duration="2000" />
     </task>
     <servers />
   </component>

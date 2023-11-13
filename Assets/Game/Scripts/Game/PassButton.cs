@@ -15,12 +15,7 @@ namespace Game
             {
                 if (_betSelector.CurrentBet != 0)
                 {
-                    if (!Wallet.TryPurchase(_betSelector.CurrentBet))
-                    {
-                        Wallet.TryPurchase(Wallet.Money);
-                    }
-
-                    _resultPanel.ShowResults("You lose!", $"-{_betSelector.CurrentBet} coins");
+                    _resultPanel.ShowResults("You lose!", $"- {_betSelector.CurrentBet} coins");
                 }
             });
         }
