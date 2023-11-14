@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using DG.Tweening;
 using UnityEngine;
@@ -19,6 +20,16 @@ namespace Game
         
         public int Points => BlackjackHandCalculator.CalculateHandValue(_innerCards);
 
+        private void Start()
+        {
+            SetPointsText();
+        }
+
+        private void SetPointsText()
+        {
+            _pointsText.text = Points.ToString();
+        }
+        
         private void UpdatePointsText()
         {
             int currentText = 0;

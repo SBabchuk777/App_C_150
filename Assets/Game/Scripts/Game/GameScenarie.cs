@@ -1,4 +1,5 @@
 using System.Collections;
+using Prototype.AudioCore;
 using UnityEngine;
 
 namespace Game
@@ -144,7 +145,7 @@ namespace Game
         {
             if (_playerHand.Points > 21)
             {
-                ShowFail();
+                ShowLose();
                 
                 return;
             }
@@ -165,7 +166,7 @@ namespace Game
             
             if (_playerHand.Points < _dillerHand.Points)
             {
-                ShowFail();
+                ShowLose();
                 
                 return;
             }
@@ -180,6 +181,8 @@ namespace Game
 
         private void ShowWin()
         {
+            AudioController.PlaySound("win_game");
+            
             int winCoins = _betSelector.CurrentBet * 2;
             
             Wallet.AddMoney(winCoins);
@@ -187,18 +190,29 @@ namespace Game
             _resultPanel.ShowResults("You win!", $"+{winCoins} coins");
         }
         
-        private void ShowFail()
+        private void ShowLose()
         {
+            AudioController.PlaySound("lose_game");
+            
             _resultPanel.ShowResults("You lose!", $"- {_betSelector.CurrentBet} coins");
         }
         
         private void ShowDraw()
         {
+            AudioController.PlaySound("draw_game");
+            
             int winCoins = _betSelector.CurrentBet;
             
             Wallet.AddMoney(winCoins);
 
             _resultPanel.ShowResults("Draw!", $"{winCoins} coins");
+        }
+
+        public void PassGame()
+        {
+            StopAllCoroutines();
+            
+            ShowLose();
         }
     }
 }

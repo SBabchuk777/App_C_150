@@ -1,4 +1,5 @@
 using DG.Tweening;
+using Prototype.AudioCore;
 using UnityEngine;
 
 using Random = UnityEngine.Random;
@@ -18,15 +19,16 @@ namespace Game
 
             for (int i = 0; i < cardsCount; i++)
             {
-                int randomIndex = Random.Range(0, cardsCount);
                 int newIndex = Random.Range(0, cardsCount);
 
-                transform.GetChild(randomIndex).SetSiblingIndex(newIndex);
+                transform.GetChild(i).SetSiblingIndex(newIndex);
             }
         }
 
         public void GetCard(Hand hand)
         {
+            AudioController.PlaySound("Card");
+            
             int cardsCount = transform.childCount;
 
             Transform selectedCardTransform = transform.GetChild(cardsCount - 1);

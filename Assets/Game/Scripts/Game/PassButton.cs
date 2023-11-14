@@ -7,16 +7,13 @@ namespace Game
     public class PassButton : MonoBehaviour
     {
         [SerializeField] private BetSelector _betSelector = null;
-        [SerializeField] private ResultPanel _resultPanel = null;
+        [SerializeField] private GameScenarie _gameScenarie = null;
 
         private void Awake()
         {
             GetComponent<Button>().onClick.AddListener(() =>
             {
-                if (_betSelector.CurrentBet != 0)
-                {
-                    _resultPanel.ShowResults("You lose!", $"- {_betSelector.CurrentBet} coins");
-                }
+                _gameScenarie.PassGame();
             });
         }
     }

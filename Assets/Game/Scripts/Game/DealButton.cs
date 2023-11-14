@@ -1,3 +1,4 @@
+using Prototype.AudioCore;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -16,6 +17,10 @@ namespace Game
                 if (_betSelector.CurrentBet != 0)
                 {
                     _uiAnimator.SetTrigger("StartGame");
+                }
+                else
+                {
+                    AudioController.PlaySound("error");
                 }
             });
         }

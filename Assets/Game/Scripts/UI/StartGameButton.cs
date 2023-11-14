@@ -1,3 +1,4 @@
+using Prototype.AudioCore;
 using Prototype.SceneLoaderCore.Helpers;
 using UI.Panels;
 using UnityEngine;
@@ -14,6 +15,8 @@ namespace UI
             {
                 if (Wallet.Money < 50)
                 {
+                    AudioController.PlaySound("error");
+                    
                     _rewardedPanel.Show();
                 }
                 else

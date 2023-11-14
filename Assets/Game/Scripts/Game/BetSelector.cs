@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using DG.Tweening;
+using Prototype.AudioCore;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -118,13 +119,21 @@ namespace Game
         {
             if (_isBlockedEditing)
                 return;
-            
-            if (Wallet.Money < CurrentBet + chip)
-                return;
-            
-            CurrentBet += chip;
 
-            CurrentBet = Mathf.Clamp(CurrentBet, 0, 4000);
+            int newValue = CurrentBet + chip;
+            
+            newValue = Mathf.Clamp(newValue, 0, 4000);
+            
+            if (Wallet.Money < newValue)
+            {
+                AudioController.PlaySound("error");
+                
+                return;
+            }
+            
+            AudioController.PlaySound("chip");
+            
+            CurrentBet = newValue;
 
             UpdateChips();
         }
@@ -134,6 +143,15 @@ namespace Game
             if (_isBlockedEditing)
                 return;
 
+            if (CurrentBet == 0)
+            {
+                AudioController.PlaySound("error");
+                
+                return;
+            }
+
+            AudioController.PlaySound("clean_chips");
+            
             CurrentBet = 0;
 
             UpdateChips();
@@ -141,6 +159,9 @@ namespace Game
 
         public void ApplyBet()
         {
+            if (CurrentBet == 0)
+                return;
+            
             _isBlockedEditing = true;
         }
     }

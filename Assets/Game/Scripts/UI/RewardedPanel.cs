@@ -1,3 +1,4 @@
+using Prototype.AudioCore;
 using Tools.UnityAdsService.Scripts;
 using UI.Panels;
 using UnityEngine;
@@ -35,6 +36,8 @@ namespace UI
 
         private void GiveReward()
         {
+            AudioController.PlaySound("rewarded_coins");
+            
             Wallet.AddMoney(100);
             
             Hide();
