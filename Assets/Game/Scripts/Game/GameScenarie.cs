@@ -91,6 +91,11 @@ namespace Game
             _hitButton.OnClick += () => isPressedHit = true;
             _standButton.OnClick += () => isPressedStand = true;
 
+            if (_playerHand.Points >= 21)
+            {
+                yield break;
+            }
+            
             while (true)
             {
                 if (isPressedHit)
@@ -107,10 +112,8 @@ namespace Game
                     {
                         break;
                     }
-                    else
-                    {
-                        SetButtonsActive(true); 
-                    }
+                    
+                    SetButtonsActive(true); 
                 }
 
                 if (isPressedStand)
@@ -187,7 +190,7 @@ namespace Game
             
             Wallet.AddMoney(winCoins);
             
-            _resultPanel.ShowResults("You win!", $"+{winCoins} coins");
+            _resultPanel.ShowResults("You win!", $"+{_betSelector.CurrentBet } coins");
         }
         
         private void ShowLose()

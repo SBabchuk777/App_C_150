@@ -66,6 +66,8 @@ SpriteAtlas:
   m_PackedSprites:
   - {fileID: 21300000, guid: e5e7c540600db436391b335e19d482d5, type: 3}
   - {fileID: 21300000, guid: ae1d63d10d28b4000b5414174236063a, type: 3}
+  - {fileID: 21300000, guid: 28f10292b85333a4093d63d6c55de696, type: 3}
+  - {fileID: 21300000, guid: a3a23d94a70aee240939d4bd2ac65b6f, type: 3}
   - {fileID: 21300000, guid: 9ca135e4b19996e4c94869d682461aef, type: 3}
   - {fileID: 21300000, guid: 1cd4521552035ab4ebf6723c91a5dbb9, type: 3}
   - {fileID: 21300000, guid: 46ede435fa317c4478735b47e947bb95, type: 3}
@@ -74,9 +76,12 @@ SpriteAtlas:
   - {fileID: 21300000, guid: e38c3a9ad9477f94f92b4dbc87784db5, type: 3}
   - {fileID: 21300000, guid: 02a4e51b74123324db8b1db398212d20, type: 3}
   - {fileID: 21300000, guid: bf9a4b1cc45cc47e3bd8a63880400952, type: 3}
+  - {fileID: 21300000, guid: c09323ed93145dc48badb5cb6652034a, type: 3}
   m_PackedSpriteNamesToIndex:
   - body
   - Frame
+  - shape037_style01_color08
+  - shape016_style01_color08
   - shape038_style01_color08
   - style03_color08
   - style02_color08
@@ -85,6 +90,7 @@ SpriteAtlas:
   - shape094_style01_color08
   - shape035_style01_color08
   - bottom
+  - shape017_style01_color08
   m_RenderDataMap: {}
   m_Tag: UserProfiler_SpriteAtlass
   m_IsVariant: 0
