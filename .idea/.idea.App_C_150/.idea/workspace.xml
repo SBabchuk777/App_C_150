@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b73e1de5-7f5a-41cb-a06a-15a6dbde0e20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.App_C_150/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.App_C_150/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Scenes/Boot.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scenes/Boot.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Game/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Scripts/Game/GameScenarie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Game/GameScenarie.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/Scripts/UI/RewardedPanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/RewardedPanel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/UserProfile/Scripts/UserProfileStorage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/UserProfile/Scripts/UserProfileStorage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Game/UserProfile/Sprites/UserProfiler_SpriteAtlass.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/UserProfile/Sprites/UserProfiler_SpriteAtlass.spriteatlas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Sounds/NonLanguage/error.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Sounds/NonLanguage/error.mp3.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tools/UnityAdsService/Prefabs/UnityAdsSevice.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/UnityAdsService/Prefabs/UnityAdsSevice.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_Android.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_Android.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_iOS.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_iOS.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Game/Scripts/Wallet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Wallet.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,6 +178,7 @@
       <workItem from="1699880684525" duration="11796000" />
       <workItem from="1699965613230" duration="1040000" />
       <workItem from="1699977726826" duration="2210000" />
+      <workItem from="1700644330733" duration="604000" />
     </task>
     <servers />
   </component>
