@@ -6,12 +6,11 @@ namespace Prototype
 {
     public class LogoScript : MonoBehaviour
     {
-        
         private float time = 1;
 
         private void Start()
         {
-            DOVirtual.DelayedCall(time, () => SceneLoader.Instance.SwitchToScene(SceneLoader.Instance.mainScene));
+            DOVirtual.DelayedCall(time, () => SceneLoader.Instance.SwitchToScene(SceneLoader.Instance.mainScene)).Play();
         }
     }
 }

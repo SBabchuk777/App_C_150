@@ -141,8 +141,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 877b9e52d57ff8a438e26a68c79d5e43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainScene: Game
-  preloaderScene: Preloader
+  mainScene: 
+  preloaderScene: SampleScene
 --- !u!1 &5173739272021237129
 GameObject:
   m_ObjectHideFlags: 0

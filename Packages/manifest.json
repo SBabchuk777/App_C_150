@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "com.coffee.ui-effect": "https://github.com/mob-sakai/UIEffect.git",
+    "com.onesignal.unity.android": "3.0.4",
+    "com.onesignal.unity.core": "3.0.4",
+    "com.onesignal.unity.ios": "3.0.4",
     "com.unity.ads": "4.4.2",
     "com.unity.ads.ios-support": "1.0.0",
     "com.unity.collab-proxy": "2.0.3",
